@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/impl/AddProductDAOImpl.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/servlets/CheckLogin.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/servlets/RegisterCat.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/model/Users.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/dao/AddProductDAO.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/Rastaura.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/Success.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/index.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/model/Cart.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/InCat.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/ViewCart.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/signup.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/validation/UserValidation.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/impl/UsersDAOImpl.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/dao/CartDAO.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/servlets/UpdateAddressInCart.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/Invoice.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/PlaceYourOrder.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/ProductSuccess.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/ConfirmOrder.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/Login.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/servlets/RegisterUser.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/web/AddProduct.jsp</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/dao/UsersDAO.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/servlets/AddToCart.java</file>
+            <file>file:/C:/Users/MAYANK/Documents/NetBeansProjects/category/src/java/impl/CartDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
